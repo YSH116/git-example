@@ -7,7 +7,6 @@ template<class T>
 class Queue
 {
 public:
-
     Queue(string);
     string getData();
     void pop();
